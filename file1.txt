@@ -1,3 +1,8 @@
 This is my first commit. Yay!
 This is my second day.
+<<<<<<< HEAD
 THis is a change
+=======
+Editing this file!
+Editing again
+>>>>>>> 99696e8704af4605caaf64df3dcde0cf623e4868
